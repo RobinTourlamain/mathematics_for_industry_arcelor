@@ -10,6 +10,7 @@ python = "^3.11"
 gurobipy = "^11.0.3"
 jupyter = "^1.1.1"
 pandas = "^2.2.2"
+openpyxl = "^3.1.5"
 
 
 [build-system]
